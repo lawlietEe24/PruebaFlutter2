@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1088881695526",
+    "firebase_url": "https://fireappmov3-default-rtdb.firebaseio.com",
+    "project_id": "fireappmov3",
+    "storage_bucket": "fireappmov3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088881695526:android:cfab1f983ccfddfafbffe7",
+        "android_client_info": {
+          "package_name": "com.example.flutter_prueba_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmy03PtJQhusi6cYfUTXSc-ff_BkZEmQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
